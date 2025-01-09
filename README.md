@@ -1,10 +1,11 @@
 # Instagram-reel-download-bot
-Instagram Reel Download Bot is a Telegram bot built using Java that allows users to download Instagram reels and posts directly by providing a URL.
+Created a Telegram bot with Java and AWS to download Instagram reels, posts, and YouTube videos without watermarks, providing fast and convenient access by saving files directly in chats.
 
 ## Features
-- Download Instagram reels and posts without the Instagram watermark.
-- Saves downloaded files directly in Telegram, avoiding the use of phone storage.
-- Easy download process: just share the Instagram reel or post URL.
+• Developed a Telegram bot using Java, the Telegram API, and AWS to download Instagram reels, posts, and YouTube videos without
+watermarks.
+• Facilitated seamless content downloads by saving files directly in Telegram chats for quick and convenient access.
+• Focused on providing a fast, reliable, and user-friendly experience for content retrieval.
 
 ## Technologies Used
 - **Java:** Programming language used to develop the bot.
